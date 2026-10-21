@@ -1,3 +1,11 @@
+## Academic revision review resources (October 2026)
+
+For a practical workflow, use the [academic rewrite review worksheet](revision-review-checklist.md). It includes a worked synthetic example, a document export checklist and a [dependency-free local JavaScript fixture checker](revision-fixture-checker.mjs).
+
+These are resources from the PaperHumanizer product team, not independent endorsements. A lexical check cannot certify factual accuracy or source support. Rewriting in the [academic editor](https://paperhumanizer.com/ai-humanizer?utm_source=github&utm_medium=referral&utm_campaign=academic_review_20261021) requires sign-in and credits; consult the live site for the current offer.
+
+---
+
 
 # 🎓 PaperHumanizer - Free AI Humanizer for Academic Writing
 
