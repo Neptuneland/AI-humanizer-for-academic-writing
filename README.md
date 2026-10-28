@@ -4,6 +4,8 @@ A small public resource collection from the PaperHumanizer product team for stud
 
 ## Worksheets and examples
 
+- [Abstract word-budget worksheet and local counter](abstract-budget-worksheet.md): a fictional keep-list exercise and an offline whitespace counter with tests. Added October 28, 2026.
+
 - [Response-to-reviewers worksheet and English language bank](reviewer-response-template.md): a change-log table, copyable response block, sentence frames, and a fictional worked example. Added October 23, 2026.
 - [Academic rewrite review worksheet](revision-review-checklist.md): a worked synthetic example and document-export checks. Added October 21, 2026.
 - [Local JavaScript fixture checker](revision-fixture-checker.mjs): a dependency-free starting point for checking lexical invariants. A lexical check cannot certify factual accuracy or source support.
