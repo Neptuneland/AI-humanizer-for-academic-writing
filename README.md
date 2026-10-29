@@ -4,6 +4,8 @@ A small public resource collection from the PaperHumanizer product team for stud
 
 ## Worksheets and examples
 
+- [Revision-receipt workbook and local exact-file check](revision-receipt-workbook.md): keep the source, candidate, and review decision separate; SHA-256 identifies bytes, not meaning. Added October 29, 2026.
+
 - [Abstract word-budget worksheet and local counter](abstract-budget-worksheet.md): a fictional keep-list exercise and an offline whitespace counter with tests. Added October 28, 2026.
 
 - [Response-to-reviewers worksheet and English language bank](reviewer-response-template.md): a change-log table, copyable response block, sentence frames, and a fictional worked example. Added October 23, 2026.
