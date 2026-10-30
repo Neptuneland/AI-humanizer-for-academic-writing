@@ -1,0 +1,26 @@
+[
+  {
+    "label": "named instrument",
+    "variants": [
+      "Revision Quality Index",
+      "RQI"
+    ],
+    "caseSensitive": true
+  },
+  {
+    "label": "constructs to inspect separately",
+    "variants": [
+      "revision quality",
+      "writing ability",
+      "confidence"
+    ]
+  },
+  {
+    "label": "spelling variants to review",
+    "variants": [
+      "F1 score",
+      "F1-score"
+    ],
+    "caseSensitive": true
+  }
+]
