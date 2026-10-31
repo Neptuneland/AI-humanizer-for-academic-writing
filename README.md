@@ -4,6 +4,8 @@ A small public resource collection from the PaperHumanizer product team for stud
 
 ## Worksheets and examples
 
+- [Claim-boundary workbook](claim-boundary-workbook.md): five fictional decisions about negation, quantifiers, exclusions and scope, with a free Google Docs review worksheet. Added October 31, 2026.
+
 - [Terminology style sheet and local literal-term inventory](terminology-style-sheet.md): record names, abbreviations, variants and review-only forms without automatic replacements. Added October 30, 2026.
 
 - [Revision-receipt workbook and local exact-file check](revision-receipt-workbook.md): keep the source, candidate, and review decision separate; SHA-256 identifies bytes, not meaning. Added October 29, 2026.
